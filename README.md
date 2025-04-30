@@ -30,8 +30,8 @@ Este projeto é uma aplicação web educacional que demonstra os princípios dos
    cd forca-bruta-demo
    npm install
 
-Configuração:
-Crie um arquivo .env na raiz do projeto com:
+## Configuração:
+#1.Crie um arquivo .env na raiz do projeto com:
 
 env
 EMAIL_USER=seu_email@provedor.com
