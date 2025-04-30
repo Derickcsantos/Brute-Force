@@ -31,8 +31,9 @@ Este projeto é uma aplicação web educacional que demonstra os princípios dos
    npm install
 
 ## Configuração:
-#1.Crie um arquivo .env na raiz do projeto com:
+1.Crie um arquivo .env na raiz do projeto com:
 
+bash```
 env
 EMAIL_USER=seu_email@provedor.com
 EMAIL_PASS=sua_senha_segura
@@ -40,8 +41,10 @@ EMAIL_RECEIVER=destino@provedor.com
 PORT=3000
 Execução:
 
-bash
+bash ```
 node server.js
+```
+
 Acesso:
 Abra no navegador:
 
