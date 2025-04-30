@@ -1,10 +1,24 @@
 {
+  "name": "forca-bruta-app",
+  "version": "1.0.0",
+  "description": "Aplicação Node.js Express para simulação e explicação de ataques de força bruta",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "forca-bruta",
+    "seguranca",
+    "express",
+    "node",
+    "nodemailer"
+  ],
+  "author": "Seu Nome",
+  "license": "MIT",
   "dependencies": {
     "body-parser": "^2.2.0",
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
-    "fs": "^0.0.1-security",
-    "nodemailer": "^6.10.1",
-    "path": "^0.12.7"
+    "nodemailer": "^6.10.1"
   }
 }
