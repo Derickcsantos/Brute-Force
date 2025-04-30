@@ -1,3 +1,6 @@
+
+<div align="center">
+   
 # 🛡️ Sistema Educacional sobre Ataques de Força Bruta
 
 **Desenvolvido por Derick Campos Santos**  
@@ -6,6 +9,9 @@
 ## 📌 Visão Geral
 
 Este projeto é uma aplicação web educacional que demonstra os princípios dos ataques de força bruta em sistemas de autenticação, com foco em conscientização sobre segurança digital.
+</div>
+
+<div align="center">
 
 ## 🛠️ Ferramentas Utilizadas
 
@@ -18,7 +24,11 @@ Este projeto é uma aplicação web educacional que demonstra os princípios dos
 | ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white) | Hospedagem em nuvem | - |
 | ![DeepSeek](https://img.shields.io/badge/DeepSeek-05122A?style=for-the-badge&logo=deepseek&logoColor=white) | Assistência por IA | - |
 
+</div>
+<div align="center">
+   
 ## 🚀 Como Executar Localmente
+</div>
 
 1. **Pré-requisitos**:
    - Node.js (v18.x ou superior)
@@ -29,83 +39,36 @@ Este projeto é uma aplicação web educacional que demonstra os princípios dos
    git clone https://github.com/seu-usuario/forca-bruta-demo.git
    cd forca-bruta-demo
    npm install
+   ```
 
-## Configuração:
-1.Crie um arquivo .env na raiz do projeto com:
+3. **Configuração:**
+   Crie um arquivo .env na raiz do projeto com:
+   
+    ```bash
+   env
+   EMAIL_USER=seu_email@provedor.com
+   EMAIL_PASS=sua_senha_segura
+   EMAIL_RECEIVER=destino@provedor.com
+   PORT=3000
+   ```
+   Execução:
+   
+   ```bash
+   node server.js
+   ```
 
-bash```
-env
-EMAIL_USER=seu_email@provedor.com
-EMAIL_PASS=sua_senha_segura
-EMAIL_RECEIVER=destino@provedor.com
-PORT=3000
-Execução:
+   Acesso:
 
-bash ```
-node server.js
-```
+   Abra no navegador:
+   ```bash
+   http://localhost:3000
+   ```
+<div align="center">
 
-Acesso:
-Abra no navegador:
-
-http://localhost:3000
-✨ Principais Funcionalidades
-🎯 Demonstração Interativa
-Simulador de tempo para quebra de senhas
-
-Comparativo entre diferentes níveis de segurança
-
-Visualização gráfica dos resultados
-
-📚 Conteúdo Educacional
-Explicação detalhada sobre:
-
-O que são ataques de força bruta
-
-Técnicas comuns
-
-Métodos de prevenção
-
-Estatísticas atualizadas do mercado
-
-✉️ Sistema de Contato
-Formulário funcional com Nodemailer
-
-Validação em tempo real
-
-Feedback visual para usuários
-
-🌐 Opções de Hospedagem
-Plataformas compatíveis:
-
-Render (configuração incluída)
-
-Vercel
-
-Heroku
-
-AWS Elastic Beanstalk
-
-📝 Licença
+   
+## 📝 Licença
 MIT License - Veja o arquivo LICENSE para detalhes.
 
-🤝 Como Contribuir
-Faça um fork do projeto
-
-Crie uma branch para sua feature:
-
-bash
-git checkout -b minha-feature
-Commit suas mudanças:
-
-bash
-git commit -m 'Adiciona nova funcionalidade'
-Push para o repositório:
-
-bash
-git push origin minha-feature
-Abra um Pull Request
-
-Desenvolvido com ❤️ por Derick Campos Santos
+## Desenvolvido com ❤️ por Derick Campos Santos
 📫 Contato profissional: seu-email@provedor.com
-
+</div>
