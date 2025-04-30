@@ -1,7 +1,7 @@
 # 🛡️ Sistema Educacional sobre Ataques de Força Bruta
 
 **Desenvolvido por Derick Campos Santos**  
-🔗 [LinkedIn](https://linkedin.com/in/derick-campos-santos) | 🚀 Especialista em Segurança Cibernética
+🔗 [LinkedIn](https://linkedin.com/in/derick-campos-santos) | 🚀 Estudante de Segurança da informação
 
 ## 📌 Visão Geral
 
